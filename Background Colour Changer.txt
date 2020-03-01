@@ -1,0 +1,11 @@
+var back;
+
+function setup(){
+    createCanvas(400,400);
+
+    back=createSprite(200,200,400,400)
+}
+
+function draw(){
+    
+}
